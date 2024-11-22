@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_13.txt
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_18.txt
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_22.txt
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_27.txt
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_31.txt
+Sitemap: https://yoshimotofidel814.github.io/yoshimotofidel814_github_io_zp531_6.txt
